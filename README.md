@@ -6,7 +6,8 @@
 * joi for validation
 * jsonwebtoken to generate token
 * mongoose
-* nodemailer to send files
+* nodemailer to send emails
+* multer to send files
 
 ## what this website do
 * On the site, there is a group of cotigres, and inside each category there is a set of books
