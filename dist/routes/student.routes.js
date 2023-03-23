@@ -1,0 +1,17 @@
+"use strict";
+// import  express  from "express";
+// import validation from "../middlewares/validation";
+// import { verifyStudent } from "../middlewares/verifyStudent";
+// import { student } from "../controlles/student";
+// import { signUpValidation } from "../validations/signup.validation";
+// import { logInValidation } from "../validations/signin.validation";
+// const studentRouter = express.Router();
+// studentRouter.post('/signup',student.signUp);
+// studentRouter.post('/login', student.login);
+// studentRouter.post('/sendEmail', student.getEmailForForgetPassword);
+// studentRouter.post('/forgotpassword', student.forgotPassword);
+// studentRouter.put('/',verifyStudent ,student.updateProfile);
+// studentRouter.delete('/',verifyStudent ,student.deleteProfile);
+// studentRouter.delete('/soft',verifyStudent ,student.softDelete);
+// studentRouter.get('/:token', student.verifyEmail);
+// export default studentRouter;
